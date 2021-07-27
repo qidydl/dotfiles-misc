@@ -1,0 +1,1 @@
+*.cs;*.js;*.csproj;*.tt;*.vb;*.resx;*.xsd;*.wsdl;*.htm;*.html;*.aspx;*.ascx;*.asmx;*.svc;*.asax;*.config;*.asp;*.asa;*.cshtml;*.vbhtml;*.css;*.scss;*.xml;*.sql;*.h;*.sqh;*.bat;*.awk
